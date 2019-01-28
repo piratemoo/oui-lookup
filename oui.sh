@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
  
 if [ ! -e oui.txt ];then
     echo "oui.txt not found. Grabbing current copy."
